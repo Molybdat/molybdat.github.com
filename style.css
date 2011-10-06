@@ -47,11 +47,11 @@ h1 {
     margin: 60px;
   }	
   
-#under_construction   {
+/*#under_construction   {
   -moz-box-shadow: 0 0 10px #888;
   -webkit-box-shadow: 0 0 10px#888;
   box-shadow: 0 0 10px #888;
-  }
+  }*/
   
 
 h2 { 
@@ -69,6 +69,7 @@ h2 {
   font-family: Arial, sans-serif;
   font-weight: bold;
   text-shadow: #888 0 0 8px;
+  margin: 200px;
 }  
 
 h3 {
@@ -78,5 +79,5 @@ h3 {
     font-family: Arial, sans-serif;
     font-weight: bold;
     text-shadow: #888 0 0 8px;
-    margin: 150px;
+    margin: 70px;
   }
